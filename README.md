@@ -1,7 +1,7 @@
 ## Oi eu sou o Mauricio, estudante de Engenharia de Computação na UEFS
 
-<h1> Atualmente eu venho estudando mais Javascript, NodeJS e React.</h1>
-<h1>Tenho conhecimento em java, python, c, mathlab e desenvolvimento de jogos em godot. </h1>
+<br>📚 Atualmente eu venho me aprimorando em Javascript, NodeJS, React, Typescript e Jest
+<br>📕 Tenho conhecimento em java, python, c, html, css mathlab e desenvolvimento de jogos em godot.
 
 
 <div align="center">
@@ -23,7 +23,5 @@
 <div> 
   
    <a href="https://www.linkedin.com/in/mauricio-santana-85020a246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation]
  
 </div>
