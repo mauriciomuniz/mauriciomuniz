@@ -1,10 +1,7 @@
 ## Oi eu sou o Mauricio, estudante de Engenharia de Computação na UEFS
-<div>
-<h1>
-Atualmente eu venho estudando mais Javascript, NodeJS e React.
-Tenho conhecimento em java, python, c, mathlab e desenvolvimento de jogos em godot.
-</h1>
-</div>
+
+<h1> Atualmente eu venho estudando mais Javascript, NodeJS e React.</h1>
+<h1>Tenho conhecimento em java, python, c, mathlab e desenvolvimento de jogos em godot. </h1>
 
 
 <div align="center">
